@@ -9,4 +9,4 @@ In this project, I was provided with an existing code file, and asked to extend 
 - modify the menu option so that the display stats option displays the data from the two txt files mentioned earlier in an easy to read format when the logged in
   user is admin. 
 
-Note: I have included both the original code and my final ver in this folder.
+Note: I have included both the original code and my final version in this folder.
